@@ -6,7 +6,7 @@
 </div>
 
 ## How to use this
-- init Vecotr Class as "Vector(始点, 終点, 幅, 長さ, 矢印の羽の部分のパラメータ)"
+- init Vecotr Class as " Vecotr vec = new Vector(始点, 終点, 幅, 長さ, 矢印の羽の部分のパラメータ)"
 - or "drawVector(始点, 終点, 幅, 長さ, 矢印の羽の部分のパラメータ);"
 
 ## Reference
